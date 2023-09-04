@@ -6,6 +6,5 @@ Python based basic TCP Connection.
 2. Enter the message in client.py, and server.py will reply with the same message in all CAPs.
 3. This is to demonstrate the basic TCP connection between a client and a server.
 
-# Contact
-+ Author: [Aravind Potluri](name-is-cipher.github.io)
-+ Email: <aravindswami135@gmail.com>
+# Author
+#### Aravind Potluri \<aravindswami135@gmail.com\>
